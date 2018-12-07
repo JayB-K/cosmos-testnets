@@ -3824,14 +3824,14 @@
         "mint": {
             "minter": {
                 "last_update": "1970-01-01T00:00:00Z",
-                "inflation": "100.0000000000",
+                "inflation": "1000.0000000000",
                 "annual_provisions": "0.0000000000"
             },
             "params": {
                 "mint_denom": "STAKE",
                 "inflation_rate_change": "1.0000000000",
-                "inflation_max": "100.0000000000",
-                "inflation_min": "100.0000000000",
+                "inflation_max": "1000.0000000000",
+                "inflation_min": "1000.0000000000",
                 "goal_bonded": "0.9900000000",
                 "blocks_per_year": "6311520"
             }
